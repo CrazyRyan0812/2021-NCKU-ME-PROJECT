@@ -1,6 +1,6 @@
 
 # 2021-NCKU-ME-PROJECT
-
+ <img width="450" src="https://i.imgur.com/WN7ksQD.jpg"/>  
  <p> 
 2021成大機械大三機械專題實作 - 丙班第三組電控程式碼 - 開源專案
  </p> <p> 
@@ -9,7 +9,7 @@
 以下相關資訊，為希望可以為將來的學弟妹在使用Arduino進行電控的時候，可以少走很多冤枉路，節省時間
  </p> <p> 
 請注意，這份README.md檔案的著作權並沒有直接採用CC授權，若需引用原創內容，請聯絡我本人轉載；若是有標柱引用來源之內容，則直接採用原作者之相關授權
- </p>
+
 [我們機器人的照片影片](https://ncku365-my.sharepoint.com/:f:/g/personal/e14073190_ncku_edu_tw/Eh9-qopnG3tOvhXfOXTUcdMBlLM40gH2dtHdubfeN2ZXuA?e=c4T7tV)
 
 # 如何開始
