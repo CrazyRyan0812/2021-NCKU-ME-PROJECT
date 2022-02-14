@@ -1,16 +1,15 @@
 
 # 2021-NCKU-ME-PROJECT
 
-  
-.
+ <p> 
 2021成大機械大三機械專題實作 - 丙班第三組電控程式碼 - 開源專案
-.
+ </p> <p> 
 以下相關程式，部分為網路參考而來，我將盡力提供其原始來源。
-.
+ </p> <p> 
 以下相關資訊，為希望可以為將來的學弟妹在使用Arduino進行電控的時候，可以少走很多冤枉路，節省時間
-.
+ </p> <p> 
 請注意，這份README.md檔案的著作權並沒有直接採用CC授權，若需引用原創內容，請聯絡我本人轉載；若是有標柱引用來源之內容，則直接採用原作者之相關授權
-.
+ </p>
 [我們機器人的照片影片](https://ncku365-my.sharepoint.com/:f:/g/personal/e14073190_ncku_edu_tw/Eh9-qopnG3tOvhXfOXTUcdMBlLM40gH2dtHdubfeN2ZXuA?e=c4T7tV)
 
 # 如何開始
@@ -74,11 +73,11 @@
 ## 採買電子材料會用到的店家
 
   
-
+ <p> 
 我這裡偷偷公開我們的收支明細，可以直接由此檔案去追朔我們在哪裡採購了哪些材料，我們將不會維護這個檔案裡面所有連結的有效性。
-
+ </p> <p> 
 阿離成大近且還可以報統編的，我最常去的是TNA168啦
-
+ </p>
   
 
 -[機專收支Github用.xlsx](%E6%A9%9F%E5%B0%88%E6%94%B6%E6%94%AFGithub%E7%94%A8.xlsx)
@@ -110,9 +109,9 @@
  - [Arduino安裝自定義資料庫(像上面那個)](https://skybow.pixnet.net/blog/post/106036427)
 
 # Arduino原始碼
-我們沒有很認真寫註解，所以若有問題想詢問，請準確告知我是哪行程式碼。
-.
-底盤及吸氣馬達，是採用前面所說的I2C，藍芽的訊號是藉由HC05傳送給UNO，再由UNO藉由I2C連線傳送給MEGA進行控制
+<p> 我們沒有很認真寫註解，所以若有問題想詢問，請準確告知我是哪行程式碼。
+ </p> <p> 
+底盤及吸氣馬達，是採用前面所說的I2C，藍芽的訊號是藉由HC05傳送給UNO，再由UNO藉由I2C連線傳送給MEGA進行控制 </p>
 
  - [底盤及吸氣馬達_UNO.ino](https://github.com/CrazyRyan0812/2021-NCKU-ME-PROJECT/blob/main/%E5%BA%95%E7%9B%A4%E5%8F%8A%E5%90%B8%E6%B0%A3%E9%A6%AC%E9%81%94_UNO.ino "底盤及吸氣馬達_UNO.ino")
  - [底盤及吸氣馬達_MEGA.ino](https://github.com/CrazyRyan0812/2021-NCKU-ME-PROJECT/blob/main/%E5%BA%95%E7%9B%A4%E5%8F%8A%E5%90%B8%E6%B0%A3%E9%A6%AC%E9%81%94_MEGA.ino "底盤及吸氣馬達_MEGA.ino")
@@ -128,13 +127,13 @@
 
 採用比較複雜的框架，且為橫式的寫法
 
-- 底盤及吸氣馬達操作app
+- [底盤及吸氣馬達操作app.aia](https://github.com/CrazyRyan0812/2021-NCKU-ME-PROJECT/blob/main/%E5%BA%95%E7%9B%A4%E5%8F%8A%E5%90%B8%E6%B0%A3%E9%A6%AC%E9%81%94%E6%93%8D%E4%BD%9Capp.aia "底盤及吸氣馬達操作app.aia")
 <img width="450" src="底盤及吸氣馬達操作app截圖.png"/> 
 
 採用單一框架，且為直式寫法
 
-- 手臂及伺服馬達操作app
-<img width="450" src="手臂及伺服馬達操作app截圖.jpg"/> 
+- [手臂及伺服馬達操作app.aia](https://github.com/CrazyRyan0812/2021-NCKU-ME-PROJECT/blob/main/%E6%89%8B%E8%87%82%E5%8F%8A%E4%BC%BA%E6%9C%8D%E9%A6%AC%E9%81%94%E6%93%8D%E4%BD%9Capp.aia "手臂及伺服馬達操作app.aia")
+<img width="250" src="手臂及伺服馬達操作app截圖.jpg"/> 
   
 
 **你可以直接下載這理的aia後上傳進行改寫！**
@@ -149,6 +148,8 @@
 
 # 聯絡我
 若學妹(ㄉㄧˋ)有需要幫忙的，請發送[messenger](https://www.facebook.com/Ryan.Lee.0812.monkey/)給我，我會視情況給予幫助及聯絡。
-
+ </p> <p> 
 CrazyRyan員外
+ </p> <p> 
 2022.02.14 修訂3板
+ </p>
