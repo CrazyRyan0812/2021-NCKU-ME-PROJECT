@@ -147,7 +147,7 @@
  <img width="450" src="https://i.imgur.com/ZKlHkaX.jpg"/>  
 
 # 聯絡我
-若學妹(ㄉㄧˋ)有需要幫忙的，請發送[messenger](https://www.facebook.com/Ryan.Lee.0812.monkey/)給我，我會視情況給予幫助及聯絡。
+若學妹(ㄉㄧˋ)有需要幫忙的，請發送[messenger](https://www.facebook.com/Ryan.Lee.Ting.Ching.0812/)給我，我會視情況給予幫助及聯絡。
  </p> <p> 
 CrazyRyan員外
  </p> <p> 
